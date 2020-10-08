@@ -1,1 +1,1 @@
-Exemplos de uso do componente TClientDataSet 
+Exemplos de uso do componente TClientDataSet.
